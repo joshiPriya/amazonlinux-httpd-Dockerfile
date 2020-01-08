@@ -17,4 +17,4 @@ CMD ["sh", "-c", "tail -f /dev/null"]
 CMD ["/usr/sbin/httpd","-D","FOREGROUND"]
 
 
-EXPOSE 80
+EXPOSE 85
